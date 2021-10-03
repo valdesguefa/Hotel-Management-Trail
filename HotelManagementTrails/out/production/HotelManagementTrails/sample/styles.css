@@ -1,0 +1,72 @@
+.root{
+    -fx-font-family: 'JetBrains Mono';
+/*
+    -fx-background-color: lightPurple;
+*/
+}
+
+.mover{
+   -fx-background-color: #ff530f;
+
+
+}
+
+.label{
+    -fx-font-size:20px;
+     -fx-text-fill:#320055;
+
+}
+
+.button{
+    -fx-pref-width:200px;
+    -fx-background-color:#71001d;
+    -fx-background-radius:25px;
+    -fx-text-fill:white;
+
+
+}
+.button:hover{
+    -fx-background-color:#c60002;
+/*    -fx-background-radius:30px;*/
+    /*-fx-text-fill:*/
+}
+
+.button:pressed{
+    -fx-background-color:red;
+/*    -fx-text-fill:*/
+  /*  -fx-background-radius:40px;*/
+}
+
+.title{
+    -fx-font-family: 'Brush Script MT';
+    -fx-font-size:32px;
+    -fx-text-fill:#00333d;
+
+}
+/*
+.fancy-button{
+    -fx-background-color:
+    -fx-text-fill
+}*/
+
+.text-field{
+/*
+    -fx-border-color:
+*/
+    -fx-border-radius:25px;
+    -fx-background-radius:25px;
+    -fx-background-color:white;
+   -fx-prompt-text-fill: black;
+    -fx-text-fill:black;
+
+;
+
+
+}
+
+.combo-box{
+    -fx-border-radius:25px;
+    -fx-background-radius:25px;
+    -fx-background-color:white;
+    -fx-text-fill: black;
+}

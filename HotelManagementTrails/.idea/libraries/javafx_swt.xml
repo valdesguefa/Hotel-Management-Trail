@@ -1,0 +1,36 @@
+<component name="libraryTable">
+  <library name="javafx-swt">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../javafx-sdk-15.0.1/lib/javafx-swt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../javafx-sdk-15.0.1/lib/javafx.base.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../javafx-sdk-15.0.1/lib/javafx.controls.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../javafx-sdk-15.0.1/lib/javafx.fxml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../javafx-sdk-15.0.1/lib/javafx.graphics.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../javafx-sdk-15.0.1/lib/javafx.media.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../javafx-sdk-15.0.1/lib/javafx.swing.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../javafx-sdk-15.0.1/lib/javafx.web.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Programmation_Système/libaries_icons/mysql-connector-java-8.0.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Programmation_Système/librairies/itext-4.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../AUTRES FORMATIONS/icone et librairie java/fontawesomefx-8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../AUTRES FORMATIONS/icone et librairie java/joda-time-2.9.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../librairies/librairies/antlr-2.7.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../librairies/librairies/bcmail-jdk14-1.38.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../librairies/librairies/bcprov-jdk14-1.38.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../librairies/librairies/bctsp-jdk14-1.38.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../librairies/librairies/byte-buddy-1.10.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../librairies/librairies/classmate-1.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../librairies/librairies/dom4j-2.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../librairies/librairies/dom4j-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../librairies/librairies/itext-4.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../librairies/libaries_icons/mysql-connector-java-8.0.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../AUTRES FORMATIONS/icone et librairie java/.pending-1613616520-jfoenix-8.0.10.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../librairies/libaries_icons" />
+      <root url="jar://$PROJECT_DIR$/../../../../../librairies/libaries_icons/mysql-connector-java-8.0.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../librairies/librairies/itext-4.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../AUTRES FORMATIONS/icone et librairie java/.pending-1613616520-jfoenix-8.0.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../librairies/libaries_icons" recursive="false" />
+  </library>
+</component>
